@@ -1,0 +1,4 @@
+com\gorest\testbase\TestBase.class
+com\gorest\testSuite\TagsTest.class
+com\gorest\testSuite\GoRestCURDTestWithSteps.class
+com\gorest\testSuite\DataDrivenTestCreate.class
